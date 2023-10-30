@@ -1,0 +1,45 @@
+body {
+    background-color: #d5e1ef;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+.component {
+    width: 275px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 20px 20px 45px 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.component__heading {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.component__image {
+    border-radius: 10px;
+}
+
+.component__subtitle {
+    font-size: 15px;
+    margin: 0;
+    padding: 0 15px;
+    margin-top: 10px;
+    font-weight: 400;
+    color: #a1a1a1;
+}
+
+.attribution {
+    margin-top: 20px;
+}
